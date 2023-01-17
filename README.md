@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @legendsaintwalker
-- 👀 I’m interested in learning sql, python,ux/ui to a master level
-- 🌱 I’m currently learning sql, python and ux/ui
+- 👀 I’m interested in programming and innovations. 
+- 🌱 I’m currently learning sql, python, PowerBi, Django and Flask.
 - 💞️ I’m looking to collaborate on job and willing to learn.
 - 📫 How to reach me by email legendsaintwalker@gmail.com
 
